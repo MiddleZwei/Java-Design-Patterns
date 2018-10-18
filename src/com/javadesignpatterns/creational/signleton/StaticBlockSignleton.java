@@ -1,4 +1,4 @@
-package signleton;
+package com.javadesignpatterns.creational.signleton;
 
 public class StaticBlockSignleton {
 
