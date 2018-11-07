@@ -31,6 +31,6 @@ I studied design patterns and included examples of these patterns here in this r
   Memento design pattern is used when we want to save the state of an object so that we can restore later on. Memento pattern is used to implement this in such a way that the saved state data of the object is not accessible outside of the object, this protects the integrity of saved state data. <br><br>
   <li><a href="https://github.com/MiddleZwei/Java-Design-Patterns/tree/master/src/com/javadesignpatterns/bevavioral/templatemethod">Template Method</a></li>
   Template method defines the steps to execute an algorithm and it can provide default implementation that might be common for all or some of the subclasses.<br>
-  For instance, all common behaviors may be placed inside of an abstract class, which also has the implementation of a method which calls all other methods in order to create an object. In the case of a House all buildings have windows(I believe so), but differnet materials for the walls - glass, wooden, brick etc. <== And this is what needs to be implemented in the concrete classes to complete from the template. <br><br>
+  For instance, all common behaviors may be placed inside of an abstract class, which also has the implementation of a method which calls all other methods in order to complete the object. In the case of a House all buildings have windows(I believe so), but differnet materials for the walls - glass, wooden, brick etc. <== And this is what needs to be implemented in the concrete classes to complete from the template. <br><br>
  
 </ol>
