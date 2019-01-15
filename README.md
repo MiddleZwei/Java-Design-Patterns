@@ -7,7 +7,7 @@ I studied design patterns and included examples of these patterns here in this r
 <h3>Creational patterns</h3> <br>
 <ol type="1">
   <li><a href="https://github.com/MiddleZwei/Java-Design-Patterns/tree/master/src/com/javadesignpatterns/creational/signleton">Singleton</a></li>
-    egrtghtrf
+    Instanciates only one instance of a class
   <li><a href="https://github.com/MiddleZwei/Java-Design-Patterns/tree/master/src/com/javadesignpatterns/creational/factorymethod">Factory method</a></li>
   Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.<br> <br>
 </ol>
